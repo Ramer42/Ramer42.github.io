@@ -1,5 +1,5 @@
 ---
-title: Hello World 
+title: Hello World.markdown
 tags: 新建,模板,小书匠
 category: /小书匠/日记/2021-10
 renderNumberedHeading: true
