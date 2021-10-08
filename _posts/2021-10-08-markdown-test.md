@@ -10,9 +10,9 @@ tags:
 ---
 
 Ramerzhang's Blog
-========
+======
 Content
------------------
+---------
 # Ramerzhang's Blog
 #### Ramerzhang's Blog
 
@@ -24,7 +24,10 @@ Content
 [github](https://github.com/Ramer42/Ramer42.github.io)
 
 ###### 图片
-![](https://github.com/Ramer42/Ramer42.github.io/blob/master/img/404-bg.jpg)
+![](https://github.com/Ramer42/Ramer42.github.io/blob/master/img/404-bg.jpg?raw=true)
+
+###### 动图
+![](https://github.com/Ramer42/Ramer42.github.io/blob/master/img/shishi.gif?raw=true)
 
 ###### 视频
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1633664414/video_to_markdown/images/youtube--kMndV7Fy-zw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
