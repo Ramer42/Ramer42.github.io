@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Markdown Test"
+title: 2021-10-08-markdown-test.md
 date:       2021-10-08 12:00:00
 author:     "LPZhang"
 catalog: false
 header-style: text
-tags:
+tags: test
   - test
 ---
 
