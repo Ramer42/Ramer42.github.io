@@ -48,18 +48,12 @@ Content
 3. Serve the website (`localhost:4000` by default):
 
 ```java
-import java.util.HashMap;
-import java.util.List;
-
 public class OomageTestUtility {
     public static boolean haveNiceHashCodeSpread(List<Oomage> oomages, int M) {
         int[] bucketList = new int[M];
         for (Oomage o : oomages) {
             int bucketNum = (o.hashCode() & 0x7FFFFFFF) % M;
             bucketList[bucketNum] = bucketList[bucketNum] + 1;
-        }
-        for (int k : bucketList) {
-            System.out.println(k);
         }
         for (int j : bucketList) {
             if ((j < oomages.size() / 50) || (j > oomages.size() / 2.5)) {
@@ -70,3 +64,9 @@ public class OomageTestUtility {
     }
 }
 ```
+
+From the `hashCode` of `ComplexOomage`, we can calculate the hashcode given length of list $N$ and each argument $s$ from the function below:
+
+$${s_1} \times {256^{N - 1}} + {s_2} \times {256^{N - 2}} + {s_3} \times {256^{N - 3}} +  \ldots  \ldots  + {s_{N - 1}} \times {256^0}$$
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34341360&auto=1&height=66"></iframe>
