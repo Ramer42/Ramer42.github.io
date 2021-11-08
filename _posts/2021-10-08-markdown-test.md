@@ -69,8 +69,7 @@ From the `hashCode` of `ComplexOomage`, we can calculate the hashcode given leng
 
 $${s_1} \times {256^{N - 1}} + {s_2} \times {256^{N - 2}} + {s_3} \times {256^{N - 3}} +  \ldots  \ldots  + {s_{N - 1}} \times {256^0}$$
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34341360&auto=0&height=66"></iframe>
-<br/>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34341360&auto=0&height=66"></iframe><br/>
 <audio id="audio" controls="" preload="none">
       <source id="mp3" src="http://music.163.com/song/media/outer/url?id=1382359170.mp3"></audio>
 
