@@ -16,7 +16,7 @@ Content
 # Ramerzhang's Blog
 #### Ramerzhang's Blog
 
-欢迎使用 **{小书匠}(xiaoshujiang)编辑器**，您可以通过 `小书匠主按钮>模板` 里的模板管理来改变新建文章的内容。
+欢迎使用 **{小书匠}(xiaoshujiang)编辑器**，您可以通过 `小书匠主按钮>模板` 里的模板管理来改变新建文章的内容。&#x1F605;<br/>
 
 > 引用
 
@@ -28,6 +28,11 @@ Content
 
 ###### 动图
 ![](https://github.com/Ramer42/Ramer42.github.io/blob/master/img/shishi.gif?raw=true)
+
+<div  align="center">    
+<img src="https://github.com/Ramer42/Ramer42.github.io/blob/master/img/shishi.gif?raw=true" width="70%">
+</div>
+
 
 ###### 视频
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1633664414/video_to_markdown/images/youtube--kMndV7Fy-zw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
